@@ -2,3 +2,6 @@
 
 
 # imagens
+
+![Gameaway - Casos de Uso](https://user-images.githubusercontent.com/63924505/115130983-a7103700-9fca-11eb-8cb1-5be95b27c07b.png)
+
